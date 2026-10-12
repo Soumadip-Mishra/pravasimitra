@@ -1,6 +1,11 @@
 # PravasiMitra (প্রবাসী মিত্র / प्रवासी मित्र)
 ## Inter-State Migrant Labor Rights & Wage Dispute Companion
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-pravasimitra.netlify.app-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://pravasimitra.netlify.app/)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Soumadip-Mishra/pravasimitra)
+
+🌐 **Live Application**: [https://pravasimitra.netlify.app/](https://pravasimitra.netlify.app/)
+
 > **Zero-Backend Pure Frontend Single Page Application (SPA)** powered by **Sarvam AI Indic Cloud Intelligence**.
 > Converts raw vernacular voice testimonies and crumpled attendance slips into legally enforceable administrative grievance petitions within 60 seconds.
 
